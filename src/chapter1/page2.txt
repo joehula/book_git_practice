@@ -1,1 +1,2 @@
 This page two of my book and learning git and trying to move forward in my journey
+I edit my page 2 after I commit it.
